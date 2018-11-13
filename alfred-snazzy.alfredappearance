@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#DCDFE0FF",
+        "font" : "System Light",
+        "color" : "#898C8FFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#5AF78DFF",
+        "font" : "System Light",
+        "color" : "#5AF78DFF"
+      },
+      "backgroundSelected" : "#33343DFF",
+      "text" : {
+        "size" : 20,
+        "colorSelected" : "#F95A55FF",
+        "font" : "System Light",
+        "color" : "#54C4FBFF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 0,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#272935FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#F92672FF",
+        "font" : "System Light",
+        "color" : "#F0F1EFFF"
+      },
+      "backgroundSelected" : "#23231DFF"
+    },
+    "window" : {
+      "color" : "#272935FF",
+      "paddingHorizontal" : 10,
+      "width" : 560,
+      "borderPadding" : 0,
+      "borderColor" : "#272935FF",
+      "blur" : 0,
+      "roundness" : 5,
+      "paddingVertical" : 10
+    },
+    "credit" : "zeitchef",
+    "separator" : {
+      "color" : "#F9915700",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#78777EFF",
+      "thickness" : 2
+    },
+    "name" : "Alfred Snazzy"
+  }
+}
