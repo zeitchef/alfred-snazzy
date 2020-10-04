@@ -6,7 +6,7 @@
 
 ## Install
 
-- Right-click [`alfred-snazzy.alfredappearance`](alfred-snazzy.alfredappearance)
+- Right-click [`alfred-snazzy.alfredappearance`](alfred-snazzy.alfredappearance) to download
 - Double-click to install.
 
 
