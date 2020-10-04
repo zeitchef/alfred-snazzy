@@ -6,13 +6,13 @@
         "size" : 11,
         "colorSelected" : "#DCDFE0FF",
         "font" : "System Light",
-        "color" : "#898C8FFF"
+        "color" : "#A5A5A8FF"
       },
       "shortcut" : {
         "size" : 16,
-        "colorSelected" : "#5AF78DFF",
+        "colorSelected" : "#FF6AC0FF",
         "font" : "System Light",
-        "color" : "#5AF78DFF"
+        "color" : "#FF6AC0FF"
       },
       "backgroundSelected" : "#33343DFF",
       "text" : {
@@ -27,20 +27,20 @@
     },
     "search" : {
       "paddingVertical" : 2,
-      "background" : "#272935FF",
+      "background" : "#282935FF",
       "spacing" : 10,
       "text" : {
         "size" : 24,
         "colorSelected" : "#F92672FF",
         "font" : "System Light",
-        "color" : "#F0F1EFFF"
+        "color" : "#E2E3E4FF"
       },
       "backgroundSelected" : "#23231DFF"
     },
     "window" : {
-      "color" : "#272935FF",
+      "color" : "#282935FF",
       "paddingHorizontal" : 10,
-      "width" : 560,
+      "width" : 792,
       "borderPadding" : 0,
       "borderColor" : "#272935FF",
       "blur" : 0,
